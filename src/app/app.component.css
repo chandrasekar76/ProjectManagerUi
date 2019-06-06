@@ -1,0 +1,14 @@
+.active-link
+{    
+    font-weight: bold;
+    text-decoration: underline;
+    color: green;
+}
+
+.fcolor{
+    color: green;
+}
+
+.nav a{
+    color: green;
+}
